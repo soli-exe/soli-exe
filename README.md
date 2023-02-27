@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript, ReactJS, GraphQL**
 
-- 📫 Here is how to reach me: **sja.exe@gmail.com or text me on telegram => t.me/soliexe**
+- 📫 Here is how to reach me: **sja.exe@gmail.com or text me on telegram => https://t.me/soliexe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
