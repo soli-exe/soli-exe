@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soli-exe&label=Profile%20views&color=0e75b6&style=flat" alt="soli-exe" /> </p>
 
-- 🔭 I’m currently working on [FLLTech](https://www.flltech.io)
-
-- 🌱 I’m currently learning **nextJS, Typescript**
-
-- 👨‍💻 All of my projects are available at [https://soliexe.netlify.app/](https://soliexe.netlify.app/)
-
 - 💬 Ask me about **Javascript, ReactJS, GraphQL**
 
 - 📫 Here is how to reach me: **sja.exe@gmail.com or text me on telegram => https://t.me/soliexe**
